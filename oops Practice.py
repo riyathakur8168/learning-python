@@ -10,7 +10,7 @@
 # print(c1.brand,c1.price)
 # print(c2.brand,c2.price)
 
-# class Employee:
+# class Employee e:
 #     CompanyName = "Averiq"  #company name is class variable this is same for all the objects of the Employee class
 #     def __init__(self,name,salary): # name & salary are instance variable this is diffrent for all the objects of the Employee class
 #         self.name = name
